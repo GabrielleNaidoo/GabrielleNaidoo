@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabrielle Naidoo</h1>
-<h3 align="center">I am a passionate and driven software developer from Cape Town, South Africa with a keen eye for detail and a deep love for crafting exceptional user experiences.</h3>
+<h3 align="center">I am a passionate and driven software developer from Cape Town, South Africa. </h3>
 
 - 🔭 I’m currently working on [PodPortal- a podcast Web App using a public API](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
 
@@ -7,9 +7,9 @@
 
 - 👯 Open for Collaborations **Ready to join forces on exciting projects! Whether it's coding, design, or brainstorming innovative ideas, count me in. Let's create something awesome together. Drop me a message, and let the collaboration adventure begin! 🚀**
 
-- 🤝 Seeking Improvement Collaborations **Greetings! 👋 I'm always open to constructive suggestions and valuable advice to enhance my skills. Whether it's coding, project management, or any other aspect, your insights are highly appreciated. Feel free to share your thoughts, and let's collaborate towards continuous improvement! 🚀**
+- 🤝 Seeking Improvement Collaborations **Greetings! 👋 I'm always open to constructive suggestions and valuable advice to enhance my skills. Whether it's coding, project management, or any other aspect, your insights are highly appreciated. Feel free to share your thoughts! 🚀**
 
-- 💬 Curious Minds Inquire Here **Have a burning question or just want to chat? I'm all ears! Whether it's about coding conundrums, project ponderings, or simply sharing ideas, feel free to drop me a message. Let the conversation begin! 🚀**
+- 💬 Curious Minds Inquire Here **Have a question or just want to chat? I'm all ears! Whether it's about coding conundrums, project ponderings, or simply sharing ideas, feel free to drop me a message. Let the conversation begin! 🚀**
 
 - 📫 How to reach me **naidoogabrielle2@gmail.com**
 
