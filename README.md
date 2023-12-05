@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gabrielle Naidoo</h1>
 <h3 align="center">I am a passionate and driven software developer from Cape Town, South Africa. </h3>
 
+
+- 🤝 Seeking Improvement  **I'm always open to constructive suggestions and valuable advice to enhance my skills. Whether it's coding, project management, or any other aspect, your insights are highly appreciated. Feel free to share your thoughts! 🚀**
+  
 - 🔭 I’m currently working on [PodPortal- a podcast Web App using a public API](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
 
 - 🌱 I’m currently learning **Sass**
+  
+- 👨‍💻 Explore My Projects **Your feedback and contributions are always welcome! 🚀 🚀**
+[(PodPortal)](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
+[Book Connect](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA2_GabrielleNaidoo_IWA-19-Final-Capstone.git)
+[Digital Resume](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupB_GabrielleNaidoo_ITW_Digital-Resume.git)
+
+
 
 - 👯 Open for Collaborations **Ready to join forces on exciting projects! Whether it's coding, design, or brainstorming innovative ideas, count me in. Let's create something awesome together. Drop me a message, and let the collaboration adventure begin! 🚀**
-
-- 🤝 Seeking Improvement Collaborations **Greetings! 👋 I'm always open to constructive suggestions and valuable advice to enhance my skills. Whether it's coding, project management, or any other aspect, your insights are highly appreciated. Feel free to share your thoughts! 🚀**
 
 - 💬 Curious Minds Inquire Here **Have a question or just want to chat? I'm all ears! Whether it's about coding conundrums, project ponderings, or simply sharing ideas, feel free to drop me a message. Let the conversation begin! 🚀**
 
