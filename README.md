@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate and driven software developer from Cape Town, South Africa. </h3>
 
 
-- 🤝 Seeking Improvement  **I'm always open to constructive suggestions and valuable advice to enhance my skills. Whether it's coding, project management, or any other aspect, your insights are highly appreciated. Feel free to share your thoughts! 🚀**
+- 🤝 Seeking Improvement  **I'm always open to constructive suggestions and valuable advice to enhance my skills. Your insights are highly appreciated. Feel free to share your thoughts! 🚀**
   
 - 🔭 I’m currently working on [PodPortal- a podcast Web App using a public API](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
 
