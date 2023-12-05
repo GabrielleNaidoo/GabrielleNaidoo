@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Sass**
   
-- 👨‍💻 Explore My Projects **Your feedback and contributions are always welcome! 🚀 🚀**
+- 👨‍💻 Explore My Projects: **Your feedback and contributions are always welcome! 🚀 🚀**
 [(PodPortal)](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
 [(Book Connect)](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA2_GabrielleNaidoo_IWA-19-Final-Capstone.git)
 [(Digital Resume)](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupB_GabrielleNaidoo_ITW_Digital-Resume.git)
