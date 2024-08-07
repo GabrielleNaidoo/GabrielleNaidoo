@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on [PodPortal- a podcast Web App using a public API](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vue**
   
 - 👨‍💻 Explore My Projects: **Your feedback and contributions are always welcome! 🚀 🚀**
 [(PodPortal)](https://github.com/GabrielleNaidoo/GABNAI273_FTO2306_GroupA_GabrielleNaidoo_DWA_FinalCapstone.git)
